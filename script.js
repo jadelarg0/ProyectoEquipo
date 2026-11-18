@@ -1,0 +1,1 @@
+//Archivo javascript para el proyecto del equipo//
